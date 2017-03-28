@@ -1,6 +1,6 @@
-# Kaggle Dataset Lending Club Loan Data
-
 ![Lending Club Logo](/figs/logo.png)
+
+# Kaggle Dataset Lending Club Loan Data
 
 Analyze Lending Club's issued loans
 
